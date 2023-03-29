@@ -1,7 +1,9 @@
 ### Olá mundo!
 <br>
 - 🔭 Focado em programação Backend ...
+<br>
 - 🌱 Estudando Python, SQL e Cloud Computing...
+<br>
 - 💬 Email: luiz_santos1990@hotmail.com ...
 <br>
 <div style="display: inline_block"><br>
