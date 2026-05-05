@@ -2,15 +2,24 @@
 <br>
 - 🔭 Analista de Dados Pleno | Engenharia de Dados | SQL | ETL & Pipelines | BigQuery | Python | AWS Cloud Practitioner
 <br>
-- 🌱 Sou profissional de dados com mais de 3 anos de experiência, atuando na construção, transformação e organização de dados para suporte à tomada de decisão.
+     
+     Sou profissional de dados com mais de 3 anos de experiência, atuando na 
+     construção, transformação e organização de dados para suporte à tomada de decisão.
 
-     Tenho forte atuação em SQL, modelagem e estruturação de bases analíticas, trabalhando com grandes volumes de dados em ambientes como Oracle e BigQuery.
+     Tenho forte atuação em SQL, modelagem e estruturação de bases analíticas, 
+     trabalhando com grandes volumes de dados em ambientes como Oracle e BigQuery.
 
-     Ao longo da minha trajetória, venho atuando não apenas na análise, mas também na construção de bases e fluxos de dados, incluindo criação de tabelas intermediárias, automação de processos e organização de dados para consumo analítico — atividades próximas à engenharia de dados.
+     Ao longo da minha trajetória, venho atuando não apenas na análise, mas também 
+     na construção de bases e fluxos de dados, incluindo criação de tabelas intermediárias, 
+     automação de processos e organização de dados para consumo analítico — atividades próximas 
+     à engenharia de dados.
 
-     Atualmente, estou direcionando minha evolução para Engenharia de Dados, aprofundando conhecimentos em arquitetura de dados e pipeline.
+     Atualmente, estou direcionando minha evolução para Engenharia de Dados, aprofundando 
+     conhecimentos em arquitetura de dados e pipeline.
 
-     Busco oportunidades que me permitam atuar cada vez mais próximo da construção e orquestração de pipelines, unindo visão de negócio com fundamentos técnicos sólidos. 
+     Busco oportunidades que me permitam atuar cada vez mais próximo da construção e orquestração 
+     de pipelines, unindo visão de negócio com fundamentos técnicos sólidos. 
+
 <br>
 - 💬 Email: luiz_santos1990@hotmail.com ...
 <br>
