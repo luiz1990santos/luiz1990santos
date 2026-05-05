@@ -1,7 +1,5 @@
 ### Olá mundo!
 <br>
-- 🔭 Analista de Dados Pleno | Engenharia de Dados | SQL | ETL & Pipelines | BigQuery | Python | AWS Cloud Practitioner
-<br>
      
      Sou profissional de dados com mais de 3 anos de experiência, atuando na 
      construção, transformação e organização de dados para suporte à tomada de decisão.
@@ -21,8 +19,7 @@
      de pipelines, unindo visão de negócio com fundamentos técnicos sólidos. 
 
 <br>
-- 💬 Email: luiz_santos1990@hotmail.com ...
-<br>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
